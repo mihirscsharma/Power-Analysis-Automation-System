@@ -62,7 +62,7 @@ An advanced, real-time power profiling and logging platform built on the Raspber
 ## ⚙Hardware Stack
 
 - **Microcontroller**: Raspberry Pi Pico W (or Qt Py ESP32-S2)
-  **Sensor**: Adafruit INA260 (voltage/current monitor over I2C)
+- **Sensor**: Adafruit INA260 (voltage/current monitor over I2C)
 - **Display**: 128x64 OLED via I2C
 - **Touchpad**: Capacitive 3/4-key interface
 - **Logger**: ESP32 onboard or ESP-01 over UART, logs via UDP
